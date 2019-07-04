@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/facultate/" "~/Dev/Personal/The C Programming Language/" "~/Dev/Personal/BjarneStroustrup/" "~/Dev/Personal/Game/" "~/Dev/Personal/Floyd-Steinberg dithering/")
