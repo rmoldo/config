@@ -1,8 +1,9 @@
 #! /bin/sh
 
 sxhkd &
+$HOME/.config/polybar/launch.sh
 
-feh --bg-scale $HOME/Wallpapers/edzLEe3.jpg
+feh --bg-scale $HOME/Wallpapers/7reoy11zqyt21.jpg
 
 setxkbmap -option caps:swapescape
 
