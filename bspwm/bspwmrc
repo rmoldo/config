@@ -3,9 +3,9 @@
 sxhkd &
 $HOME/.config/polybar/launch.sh
 
-feh --bg-scale $HOME/Wallpapers/7reoy11zqyt21.jpg
-
 setxkbmap -option caps:swapescape
+
+wal -i ~/Wallpapers/wall.png
 
 bspc config border_width         2
 bspc config window_gap          12
