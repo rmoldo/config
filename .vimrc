@@ -71,8 +71,6 @@ Plugin 'tpope/vim-fugitive'
 
 Plugin 'itchyny/lightline.vim'
 
-Plugin 'Valloric/YouCompleteMe'
-
 Plugin 'vim-pandoc/vim-pandoc'
 
 Plugin 'Lokaltog/powerline'
